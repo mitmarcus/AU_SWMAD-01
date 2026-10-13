@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427523740714",
+    "project_id": "dronecatalogpro",
+    "storage_bucket": "dronecatalogpro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427523740714:android:fd6e495b73ff8ad9345f53",
+        "android_client_info": {
+          "package_name": "com.mitmarcus.dronecatalogpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc-Qn6-mKOq20G_DZqBUiBQRlFF5TCUjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
